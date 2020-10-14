@@ -31,7 +31,7 @@ github_username: tzadouri
 #theme: minima
 
 theme: plainwhite
-remote_theme: samarsault/plainwhite-jekyll
+remote_theme: tzaoduri/plainwhite-jekyll
 
 plainwhite:
   name: Ted Zadouri
