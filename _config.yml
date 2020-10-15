@@ -23,7 +23,7 @@ email: tedzadouri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "personal_blog" # the subpath of your site, e.g. /blog
 baseurl: ""
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tzadouri.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: tzadouri
 
