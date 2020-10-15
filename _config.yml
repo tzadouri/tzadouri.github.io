@@ -28,23 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: tzadouri
 
 # Build settings
-#theme: minima
-
-theme: plainwhite
-remote_theme: tzaoduri/plainwhite-jekyll
-
-plainwhite:
-  name: Ted Zadouri
-  tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
-  portfolio_image: "assets/profile-1.jpg"
-  dark_mode: true
-
-  social_links:
-    #twitter: samarsault
-    github: samarsault
-    linkedIn: in/samarsault # format: locale/username
-
+theme: minima
 plugins:
   - jekyll-feed
 
